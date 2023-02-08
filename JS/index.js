@@ -28,9 +28,8 @@ document.write(c)
 
 var nym = "Firstname:"Ghino;
 var person = ("name": "Ghino", "Surname": "Reyes", "age": "21");
-
-
 document.write()*/
+
 var total_pricePeso = function(){
 
     var total_pricemb = document.getElementById("p1").value *100;
