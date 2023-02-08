@@ -1,0 +1,22 @@
+.onclick{
+    color: rgb(224, 16, 16);
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    border-radius: 4px; 
+}
+h1{
+    margin-left: 80px;
+    margin-top: 70px;
+    
+}
+
+.Ghino22{
+    margin-left: 80px;
+    
+}
+
+button:hover{
+    background-color: bisque;
+}
